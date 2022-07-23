@@ -1,0 +1,15 @@
+StringExample: Test
+ListExample: [
+  - Entry 1
+  - Entry 2
+  - Entry 3
+]
+ObjectExample: {
+  ObjectString: This is a string in an object
+  ObjectStringTwo: this is another string from an ojbect
+  ObjectList: [
+    - this is a list
+    - inside of
+    - an object
+  ]
+}
