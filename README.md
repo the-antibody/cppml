@@ -21,7 +21,7 @@ The `.cml` file extension was created by me so that storing data & configuration
 As I transition towards C++ for my software engineering, I decided to recode the cml library for C++, now called **cppml**, which is what this project is. Additionally, new features to the library such as lists inside of objects, and writing to the files has been created, as well as vast improvements on the code structure & memory efficiency. On top of that, the `.cml` file extensoin format was completely reworked, now much more clean, straight-forward, easy to understand, and organized.
 
 # Installation
-Create a header file in your C project called `cppml.hpp`. Inside of it, copy and paste the contents of [this](https://github.com/Yochran/cppml/blob/main/cppml.hpp) file. In your C++ project, include it as shown below:
+Create a header file in your C project called `cppml.hpp`. Inside of it, copy and paste the contents of [this](https://github.com/the-antibody/cppml/blob/main/cppml.hpp) file. In your C++ project, include it as shown below:
 ```c
 #include "cppml.hpp"
 ```
