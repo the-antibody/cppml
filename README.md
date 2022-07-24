@@ -5,13 +5,13 @@
   <p align="center">
     C++ Markup Language
     <br>
-    <a href="https://github.com/Yochran/cppml/blob/main/example/main.cpp">Example</a>
+    <a href="https://github.com/the-antibody/cppml/blob/main/example/main.cpp">Example</a>
     ·
-    <a href="https://github.com/Yochran/cppml/issues/new">Report Issue</a>
+    <a href="https://github.com/the-antibody/cppml/issues/new">Report Issue</a>
     .
-    <a href="https://github.com/Yochran/cppml/issues/new">Request Feature</a>
+    <a href="https://github.com/the-antibody/cppml/issues/new">Request Feature</a>
     <br />
-    <img src="https://img.shields.io/github/license/Yochran/cppml.svg?style=flat-square">
+    <img src="https://img.shields.io/github/license/the-antibody/cppml.svg?style=flat-square">
   </p>
 </p>
 
